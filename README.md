@@ -39,7 +39,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
-[![Gmail Badge](https://img.shields.io/badge/-leonidas.j.mbm@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lucaszebre1@gmail.com)](lucaszebre1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lucaszebre1@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lucaszebre1@gmail.com)](lucaszebre1@gmail.com)
 
 [![Twitter Badge](https://img.shields.io/badge/-@TechLeo777-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TechLeo777)](https://twitter.com/TechLeo777) 
 
