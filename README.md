@@ -4,19 +4,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C (1 month ago)
-- [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) -  (1 month ago)
-- [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) -  (3 months ago)
-- [LeoMbm/after-party](https://github.com/LeoMbm/after-party) -  (4 months ago)
-- [LeoMbm/api-video](https://github.com/LeoMbm/api-video) -  (4 months ago)
+- [KanbanTaskManagerwithApi](https://github.com/lucaszebre/kanbanwithapi) - A Kanban Task manger created with next.js postgresql and nest.js (1 month ago)
+- [BlogApi](https://github.com/lucaszebre/BlogApi) -  (1 month ago)
+- [LinkDev](https://github.com/lucaszebre/linkdev2) -  (3 months ago)
+- [kanbanTaskFireBase](https://github.com/lucaszebre/kanbanFirebase) -  (4 months ago)
+- [InvoiceApp](https://github.com/lucaszebre/invoice) -  (4 months ago)
 
 #### 🌱 My latest projects
 
-- [LeoMbm/mini-shell](https://github.com/LeoMbm/mini-shell) - Simple mini-shell i decided to create to practice my knowledge in C
-- [LeoMbm/game-dev-learning](https://github.com/LeoMbm/game-dev-learning) - 
-- [LeoMbm/tapio-test](https://github.com/LeoMbm/tapio-test) - 
-- [LeoMbm/after-party](https://github.com/LeoMbm/after-party) - 
-- [LeoMbm/api-video](https://github.com/LeoMbm/api-video) - 
+- [KanbanTaskManagerwithApi](https://github.com/lucaszebre/kanbanwithapi) - A Kanban Task manger created with next.js postgresql and nest.js (1 month ago)
+- [BlogApi](https://github.com/lucaszebre/BlogApi) -  (1 month ago)
+- [LinkDev](https://github.com/lucaszebre/linkdev2) -  (3 months ago)
+- [kanbanTaskFireBase](https://github.com/lucaszebre/kanbanFirebase) -  (4 months ago)
+- [InvoiceApp](https://github.com/lucaszebre/invoice) -  (4 months ago)
 
 
 
@@ -34,6 +34,9 @@
 
 🧱 Database : PostgreSQL, MongoDB
 
+🧱 Testing : Jest
+
+
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -41,7 +44,7 @@
 ## Contact me : 
 [![Gmail Badge](https://img.shields.io/badge/-lucaszebre1@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lucaszebre1@gmail.com)](lucaszebre1@gmail.com)
 
-[![Twitter Badge](https://img.shields.io/badge/-@TechLeo777-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TechLeo777)](https://twitter.com/TechLeo777) 
+[![Twitter Badge](https://img.shields.io/badge/-@ZebreLucas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ZebreLucas)](https://twitter.com/ZebreLucas) 
 
 
 ![visitors](https://komarev.com/ghpvc/?username=lucaszebre&color=yellow)
