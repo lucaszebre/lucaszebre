@@ -34,7 +34,7 @@
 
 🧱 Database : PostgreSQL, MongoDB
 
-🧱 Testing : Jest
+🧱 Testing : Jest - React-testing , Vitest
 
 
 
