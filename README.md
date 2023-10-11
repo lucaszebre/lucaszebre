@@ -30,7 +30,7 @@
 
 🧱 Front End : React, Tailwind, Bootstrap
 
-🧱 Back End : Javascript(Node, Express), Python(Django),Firebase,Supabase
+🧱 Back End : Javascript(Node, Express),Firebase,Supabase
 
 🧱 Database : PostgreSQL, MongoDB
 
