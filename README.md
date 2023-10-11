@@ -4,7 +4,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [KanbanTaskManagerwithApi](https://github.com/lucaszebre/kanbanwithapi) - A Kanban Task manger created with next.js postgresql and nest.js (1 month ago)
+- [KanbanTaskManagerwithApi](https://github.com/lucaszebre/kanbanwithapi) - A Kanban Task manger created with next.js postgresql and express.js (1 month ago)
 - [BlogApi](https://github.com/lucaszebre/BlogApi) -  (1 month ago)
 - [LinkDev](https://github.com/lucaszebre/linkdev2) -  (3 months ago)
 - [kanbanTaskFireBase](https://github.com/lucaszebre/kanbanFirebase) -  (4 months ago)
@@ -12,7 +12,7 @@
 
 #### 🌱 My latest projects
 
-- [KanbanTaskManagerwithApi](https://github.com/lucaszebre/kanbanwithapi) - A Kanban Task manger created with next.js postgresql and nest.js (1 month ago)
+- [KanbanTaskManagerwithApi](https://github.com/lucaszebre/kanbanwithapi) - A Kanban Task manger created with next.js postgresql and express.js (1 month ago)
 - [BlogApi](https://github.com/lucaszebre/BlogApi) -  (1 month ago)
 - [LinkDev](https://github.com/lucaszebre/linkdev2) -  (3 months ago)
 - [kanbanTaskFireBase](https://github.com/lucaszebre/kanbanFirebase) -  (4 months ago)
