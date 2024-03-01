@@ -1,6 +1,6 @@
 <h1 align="center">Hello There 😄 </h1>
 
-### I'm a FrontEnd Developer :)
+### I'm a WEB Developer :)
 
 #### 👷 Check out what I'm currently working on
 - [Insta Clone](https://github.com/lucaszebre/instaclone)  - A instagram clone -_- (few hours ago)
