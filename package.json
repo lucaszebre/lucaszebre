@@ -9,6 +9,7 @@
   "dependencies": {
     "@octokit/rest": "^21.0.1"
   },
+   "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC"
