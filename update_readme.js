@@ -1,5 +1,5 @@
 import { Octokit } from "@octokit/rest";
-import { readFileSync, writeFileSync } from 'fs';
+import { writeFileSync } from 'fs';
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
@@ -26,54 +26,44 @@ function getTimeAgo(date) {
 async function updateReadme() {
     try {
         const { data: user } = await octokit.users.getAuthenticated();
+        const { data: repos } = await octokit.repos.listForUser({
+            username: user.login,
+            sort: 'pushed',
+            direction: 'desc'
+        });
 
-        // Read existing README
-        let readmeContent = readFileSync('README.md', 'utf8');
+        let content = `<h1 align="center">Hello There 😄 </h1>
+### I'm a WEB Developer :)
+#### 👷 Check out what I'm currently working on
+`;
 
-        // Define sections to update
-        const sections = [
-            {
-                title: "#### 👷 Check out what I'm currently working on",
-                endMarker: "#### 🌱 My latest projects"
-            },
-            {
-                title: "#### 🌱 My latest projects",
-                endMarker: '<a href="https://www.youtube.com/watch?v=nC9dQOnUyao">'
-            }
-        ];
+        repos.slice(0, 5).forEach(repo => {
+            content += `- [${repo.name}](${repo.html_url}) - ${repo.description || ''} (${getTimeAgo(new Date(repo.pushed_at))})\n`;
+        });
 
-        for (const section of sections) {
-            const sectionStart = readmeContent.indexOf(section.title);
-            const sectionEnd = readmeContent.indexOf(section.endMarker, sectionStart);
-            
-            if (sectionStart !== -1 && sectionEnd !== -1) {
-                const sectionContent = readmeContent.slice(sectionStart, sectionEnd);
-                const repos = sectionContent.match(/- \[([^\]]+)\]\(([^)]+)\)(.*)/g);
+        content += `#### 🌱 My latest projects
+`;
 
-                if (repos) {
-                    const updatedRepos = await Promise.all(repos.map(async (repo) => {
-                        const [, name, url] = repo.match(/- \[([^\]]+)\]\(([^)]+)\)/);
-                        const owner = url.split('/')[3];
-                        const repo_name = url.split('/')[4];
+        repos.slice(0, 5).forEach(repo => {
+            content += `- [${repo.name}](${repo.html_url}) - ${repo.description || ''} (${getTimeAgo(new Date(repo.created_at))})\n`;
+        });
 
-                        try {
-                            const { data: repoData } = await octokit.repos.get({ owner, repo: repo_name });
-                            const timeAgo = getTimeAgo(new Date(repoData.pushed_at));
-                            return `- [${name}](${url}) - ${repoData.description || ''} (${timeAgo})`;
-                        } catch (error) {
-                            console.error(`Error fetching repo data for ${name}:`, error);
-                            return repo; // Keep original line if there's an error
-                        }
-                    }));
+        content += `<a href="https://www.youtube.com/watch?v=nC9dQOnUyao"><img src="https://indianmemetemplates.com/wp-content/uploads/Computer-Guy.jpg"></a>
+## By the way here are some of my statistics 🚀
+![LeoMbm's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszebre&theme=tokyonight&layout=compact)
+🌱 Currently, i improve my skills in the testing area.
+🧱 Front End : React, Tailwind, Bootstrap
+🧱 Back End : Javascript(Node, Express),Firebase,Supabase
+🧱 Database : PostgreSQL, MongoDB
+🧱 Testing : Jest - React-testing , Vitest
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+## Contact me : 
+[![Gmail Badge](https://img.shields.io/badge/-lucaszebre1@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lucaszebre1@gmail.com)](lucaszebre1@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ZebreLucas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ZebreLucas)](https://twitter.com/ZebreLucas) 
+![visitors](https://komarev.com/ghpvc/?username=lucaszebre&color=yellow)
+`;
 
-                    const updatedSectionContent = section.title + '\n' + updatedRepos.join('\n') + '\n';
-                    readmeContent = readmeContent.replace(sectionContent, updatedSectionContent);
-                }
-            }
-        }
-
-        // Write updated content back to README
-        writeFileSync('README.md', readmeContent);
+        writeFileSync('README.md', content);
         console.log('README updated successfully');
     } catch (error) {
         console.error('Error updating README:', error);
