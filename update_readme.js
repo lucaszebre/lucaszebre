@@ -1,5 +1,5 @@
 import { Octokit } from "@octokit/rest";
-const fs = require('fs');
+import { readFileSync, writeFileSync } from 'fs';
 
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
@@ -28,7 +28,7 @@ async function updateReadme() {
         const { data: user } = await octokit.users.getAuthenticated();
 
         // Read existing README
-        let readmeContent = fs.readFileSync('README.md', 'utf8');
+        let readmeContent = readFileSync('README.md', 'utf8');
 
         // Define sections to update
         const sections = [
@@ -73,7 +73,7 @@ async function updateReadme() {
         }
 
         // Write updated content back to README
-        fs.writeFileSync('README.md', readmeContent);
+        writeFileSync('README.md', readmeContent);
         console.log('README updated successfully');
     } catch (error) {
         console.error('Error updating README:', error);
