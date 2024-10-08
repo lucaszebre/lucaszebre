@@ -3,15 +3,11 @@
 ### I'm a WEB Developer :)
 
 #### 👷 Check out what I'm currently working on
-- [Insta Clone](https://github.com/lucaszebre/instaclone)  - A instagram clone -_- (few hours ago)
-- [KanbanTaskManagerwithApi](https://github.com/lucaszebre/kanbanwithapi) - A Kanban Task manger created with next.js postgresql and express.js (1 month ago)
-- [BlogApi](https://github.com/lucaszebre/BlogApi) -  (1 month ago)
-- [LinkDev](https://github.com/lucaszebre/linkdev2) -  (3 months ago)
-- [kanbanTaskFireBase](https://github.com/lucaszebre/kanbanFirebase) -  (4 months ago)
-- [InvoiceApp](https://github.com/lucaszebre/invoice) -  (4 months ago)
+- [LetterEasy](https://lettereasy.co/) - LetterEasy a saas aiming to help people create motivation letter 
+
 
 #### 🌱 My latest projects
-
+- [Insta Clone](https://github.com/lucaszebre/instaclone)  - A instagram clone 
 - [KanbanTaskManagerwithApi](https://github.com/lucaszebre/kanbanwithapi) - A Kanban Task manger created with next.js postgresql and express.js (1 month ago)
 - [BlogApi](https://github.com/lucaszebre/BlogApi) -  (1 month ago)
 - [LinkDev](https://github.com/lucaszebre/linkdev2) -  (3 months ago)
