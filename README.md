@@ -7,12 +7,13 @@
 
 
 #### 🌱 My latest projects
+- [Previously_on](https://github.com/lucaszebre/previously_on)  - Previously_on
 - [Insta Clone](https://github.com/lucaszebre/instaclone)  - A instagram clone 
-- [KanbanTaskManagerwithApi](https://github.com/lucaszebre/kanbanwithapi) - A Kanban Task manger created with next.js postgresql and express.js (1 month ago)
-- [BlogApi](https://github.com/lucaszebre/BlogApi) -  (1 month ago)
-- [LinkDev](https://github.com/lucaszebre/linkdev2) -  (3 months ago)
-- [kanbanTaskFireBase](https://github.com/lucaszebre/kanbanFirebase) -  (4 months ago)
-- [InvoiceApp](https://github.com/lucaszebre/invoice) -  (4 months ago)
+- [KanbanTaskManagerwithApi](https://github.com/lucaszebre/kanbanwithapi) - A Kanban Task manger created with next.js postgresql and express.js 
+- [BlogApi](https://github.com/lucaszebre/BlogApi) -  
+- [LinkDev](https://github.com/lucaszebre/linkdev2) - 
+- [kanbanTaskFireBase](https://github.com/lucaszebre/kanbanFirebase) -  
+- [InvoiceApp](https://github.com/lucaszebre/invoice) -  
 
 
 
