@@ -21,7 +21,6 @@
 
 
 ## By the way here are some of my statistics 🚀
-![LeoMbm's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaszebre&theme=tokyonight&layout=compact)
 
 🌱 Currently, i improve my skills in the testing area.
 
