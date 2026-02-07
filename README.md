@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lucas Music Music
+# Lucas Zebre
 
 **Fullstack Developer · Building [HiredFolio](https://hiredfolio.com)**
 
@@ -13,9 +13,8 @@
 
 ### 🔥 Now
 
-Building **[HiredFolio](https://hiredfolio.com)** — an AI-powered resume builder & job tracker with Chrome extension, multi-AI optimization (Gemini, Groq, Mistral), and full application pipeline.
+Building **[HiredFolio](https://hiredfolio.com)** — an AI-powered resume builder & job tracker with Chrome extension, multi-AI optimization , and full application pipeline.
 
-`NestJS` `React` `TypeScript` `PostgreSQL` `Docker` `Hetzner VPS`
 
 ---
 
@@ -32,7 +31,7 @@ DevOps     →  Docker · CI/CD · Blue-Green Deploys
 
 ### 📂 Projects
 
-[**LetterEasy**](https://lettereasy.co/) · Motivation letter SaaS
+[**LetterEasy**] · Motivation letter SaaS
 [**KanbanTaskManager**](https://github.com/lucaszebre/kanbanwithapi) · Kanban board — Next.js, PostgreSQL, Express
 [**InstaClone**](https://github.com/lucaszebre/instaclone) · Instagram clone
 [**InvoiceApp**](https://github.com/lucaszebre/invoice) · Invoice management tool
@@ -41,7 +40,7 @@ DevOps     →  Docker · CI/CD · Blue-Green Deploys
 
 <div align="center">
 
-Apprentice Developer @ DRUANTIA · Shipping HiredFolio 🛠️
+Apprentice Web Enginner @ Holis· Shipping HiredFolio 🛠️
 
 ![visitors](https://komarev.com/ghpvc/?username=lucaszebre&color=ff6b4a&style=flat-square)
 
