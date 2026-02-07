@@ -4,8 +4,7 @@
 
 **Fullstack Developer · Building [HiredFolio](https://hiredfolio.com)**
 
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lucaszebre1@gmail.com)
-[![Twitter](https://img.shields.io/badge/@ZebreLucas-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ZebreLucas)
+
 
 </div>
 
