@@ -35,7 +35,7 @@ DevOps     →  Docker · CI/CD · Blue-Green Deploys
 [**InstaClone**](https://github.com/lucaszebre/instaclone) · Instagram clone
 [**InvoiceApp**](https://github.com/lucaszebre/invoice) · Invoice management tool
 
----
+
 
 <div align="center">
 
@@ -45,12 +45,4 @@ Apprentice Web Enginner @ Holis· Shipping HiredFolio 🛠️
 
 </div>
 
----
 
-<div align="center">
-
-**Currently:** Apprentice Web Developer @ DRUANTIA · Shipping HiredFolio 🛠️
-
-![visitors](https://komarev.com/ghpvc/?username=lucaszebre&color=ff6b4a&style=for-the-badge)
-
-</div>
