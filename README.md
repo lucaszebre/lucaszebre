@@ -1,46 +1,83 @@
-<h1 align="center">Hello There 😄 </h1>
+<div align="center">
 
-### I'm a WEB Developer :)
+# Lucas Music Music 🚀
 
-#### 👷 Check out what I'm currently working on
-- [LetterEasy](https://lettereasy.co/) - LetterEasy a saas aiming to help people create motivation letter 
+### Fullstack Developer · Building [HiredFolio](https://hiredfolio.com)
 
+*Turning ideas into products. Currently shipping an AI-powered SaaS to help job seekers land faster.*
 
-#### 🌱 My latest projects
-- [Previously_on](https://github.com/lucaszebre/previously_on)  - Previously_on
-- [Insta Clone](https://github.com/lucaszebre/instaclone)  - A instagram clone 
-- [KanbanTaskManagerwithApi](https://github.com/lucaszebre/kanbanwithapi) - A Kanban Task manger created with next.js postgresql and express.js 
-- [BlogApi](https://github.com/lucaszebre/BlogApi) -  
-- [LinkDev](https://github.com/lucaszebre/linkdev2) - 
-- [kanbanTaskFireBase](https://github.com/lucaszebre/kanbanFirebase) -  
-- [InvoiceApp](https://github.com/lucaszebre/invoice) -  
+[![Gmail](https://img.shields.io/badge/lucaszebre1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaszebre1@gmail.com)
+[![Twitter](https://img.shields.io/badge/@ZebreLucas-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZebreLucas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://hiredfolio.com)
 
+</div>
 
+---
 
-<a href="https://www.youtube.com/watch?v=nC9dQOnUyao"><img src="https://indianmemetemplates.com/wp-content/uploads/Computer-Guy.jpg"></a>
+## 🔥 What I'm Building
 
+<table>
+<tr>
+<td width="100%">
 
-## By the way here are some of my statistics 🚀
+### [HiredFolio](https://hiredfolio.com) — AI-Powered Resume Builder & Job Tracker
 
-🌱 Currently, i improve my skills in the testing area.
+> Your unfair advantage in the job market.
 
-🧱 Front End : React, Tailwind, Bootstrap
+- 🤖 AI-driven resume optimization tailored to each job posting
+- 🧩 Chrome extension to capture job postings in one click
+- 📊 Full application tracking pipeline
+- ⚡ Multi-AI provider architecture (Gemini, Groq, Mistral)
 
-🧱 Back End : Javascript(Node, Express),Firebase,Supabase
+**Stack:** `NestJS` `React` `PostgreSQL` `Docker` `Hetzner VPS` `Blue-Green Deployment`
 
-🧱 Database : PostgreSQL, MongoDB
+</td>
+</tr>
+</table>
 
-🧱 Testing : Jest - React-testing , Vitest
+---
 
+## ⚙️ Tech Stack
 
+```
+ Frontend        →  React · TypeScript · TailwindCSS · Next.js
+ Backend         →  NestJS · Node.js · Express
+ Database        →  PostgreSQL · MongoDB · Redis
+ DevOps          →  Docker · CI/CD · Blue-Green Deploys · Hetzner VPS
+ AI Integration  →  Gemini · Groq · Mistral
+ Testing         →  Jest · Vitest · React Testing Library
+```
 
+---
 
+## 🧪 Past Projects
 
-## Contact me : 
-[![Gmail Badge](https://img.shields.io/badge/-lucaszebre1@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lucaszebre1@gmail.com)](lucaszebre1@gmail.com)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [LetterEasy](https://lettereasy.co/) | SaaS for generating motivation letters | React, Node.js |
+| [KanbanTaskManager](https://github.com/lucaszebre/kanbanwithapi) | Kanban board with full API | Next.js, PostgreSQL, Express |
+| [InstaClone](https://github.com/lucaszebre/instaclone) | Instagram clone | React |
+| [Previously On](https://github.com/lucaszebre/previously_on) | TV show tracker | React |
+| [LinkDev](https://github.com/lucaszebre/linkdev2) | Developer link sharing | React |
+| [InvoiceApp](https://github.com/lucaszebre/invoice) | Invoice management tool | React |
 
-[![Twitter Badge](https://img.shields.io/badge/-@ZebreLucas-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ZebreLucas)](https://twitter.com/ZebreLucas) 
+---
 
+## 📈 GitHub Stats
 
-![visitors](https://komarev.com/ghpvc/?username=lucaszebre&color=yellow)
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=lucaszebre&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b4a&icon_color=ff6b4a&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lucaszebre&theme=radical&hide_border=true&background=0D1117&ring=FF6B4A&fire=FF6B4A&currStreakLabel=FF6B4A" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Currently:** Apprentice Web Developer @ DRUANTIA · Shipping HiredFolio 🛠️
+
+![visitors](https://komarev.com/ghpvc/?username=lucaszebre&color=ff6b4a&style=for-the-badge)
+
+</div>
