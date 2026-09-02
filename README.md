@@ -2,7 +2,7 @@
 
 # Lucas Zebre
 
-**Fullstack Developer · Building [HiredFolio](https://hiredfolio.com)**
+**Fullstack Developer · Building [HiredFolio](https://hiredfolio.com/?utm_source=github&utm_medium=referral&utm_campaign=directory-listings&utm_content=profile-readme)**
 
 
 
@@ -12,7 +12,7 @@
 
 ### 🔥 Now
 
-Building **[HiredFolio](https://hiredfolio.com)** — an AI-powered resume builder & job tracker with Chrome extension, multi-AI optimization , and full application pipeline.
+Building **[HiredFolio](https://hiredfolio.com/?utm_source=github&utm_medium=referral&utm_campaign=directory-listings&utm_content=profile-readme)** — tailor your resume to each job, score it against the ATS, and track every application.
 
 
 ---
@@ -44,5 +44,3 @@ Apprentice Web Enginner @ Holis· Shipping HiredFolio 🛠️
 ![visitors](https://komarev.com/ghpvc/?username=lucaszebre&color=ff6b4a&style=flat-square)
 
 </div>
-
-
